@@ -19,7 +19,7 @@ public class Sample01 {
 		System.out.println("lütfen 3. sayiyi giriniz");
 		int say3 = scan.nextInt();
 		System.out.println(""+say1+say2+say3);
-		
+		boolean sonuc=true;
 		if (say1%10==say2%10 || say1%10==say3%10||say2%10==say3%10) {
 			System.out.println(true);
 		} else {
