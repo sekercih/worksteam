@@ -1,6 +1,6 @@
 package work12;
 
-import org.omg.CORBA.PRIVATE_MEMBER;
+
 
 public class Example01 {
 
